@@ -25,3 +25,7 @@ middleware:
 doc:
   location: dn-template-doc
   summary: Blank doc project template
+
+reactmobxconsole:
+  location: dn-template-youliao-console-mobx
+  summary: React + Mobx console for NetEase YouLiao
